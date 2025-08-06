@@ -9,6 +9,20 @@ This repository contains the source for Theta Tau's San José State University c
 - Static JSON data for active members and career resources
 - Optimized assets served from the `public/` directory
 
+## 🛠️ Pre-TODO: Project Setup Tasks
+
+These are the initial technical goals before adding full user-facing features:
+
+- [ ] 🔧 Clean up `/src` folder structure (remove unused boilerplate)
+- [ ] 📦 Integrate Supabase client and environment variables
+- [ ] 🔐 Set up basic Supabase auth with roles (e.g., rushee, active)
+- [ ] 🧪 Create a test page to validate Supabase DB connection
+- [x] 🗂️ Organize `components/`, `lib/`, and `types/` folders
+- [x] 📘 Replace default Next.js README with custom project documentation
+- [ ] ✍️ Create `CONTRIBUTING.md` for team or future contributors
+- [ ] 🧼 Add `.env.example` to document required secrets/config
+- [ ] 🚀 Deploy initial version to Vercel for preview testing
+
 ## Getting Started
 ### Prerequisites
 - Node.js 18.17 or newer

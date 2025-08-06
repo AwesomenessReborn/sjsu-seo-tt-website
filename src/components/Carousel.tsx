@@ -45,6 +45,8 @@ const Carousel: React.FC<CarouselProps> = ({ images }) => {
           ←
         </button>
 
+        
+
         {/* Right Arrow */}
         <button
           onClick={next}

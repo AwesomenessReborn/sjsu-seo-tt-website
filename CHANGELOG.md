@@ -27,3 +27,4 @@ There are NO active APIs for this website as of current release, to be changed i
 - ADDED pictures for brothers (sohum, bradley, alex, timmy)
 - CHANGED rush schedule dates to reflect up-to-date schedule for Fall 2025 (time and location still TBD)
 
+[0.1.1]
